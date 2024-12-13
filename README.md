@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilfried-Odorico-blue)](https://www.linkedin.com/in/wilfried-odorico/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wilodorico-blue)](https://www.linkedin.com/in/wilfried-odorico/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Online-orange)](https://codeharmony.fr)
 
 
