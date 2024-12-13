@@ -1,6 +1,6 @@
-# 👋 Hello, je suis Wil Farid !
+# 👋 Hello, je suis Wilfried !
 
-🎯 **Passionné par le développement Python et la création front-end moderne.**  
+🎯 **Passionné par le développement d'application et la création.**  
 📍 Actuellement développeur en alternance et créateur de projets impactants.  
 🧩 *"Ma mission : coder pour simplifier la vie des utilisateurs."*
 
