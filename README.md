@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **wilodorico/wilodorico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...    
--->
+
+| Nom du Projet   | Description         | Techno     |
+|-----------------|---------------------|------------|
+| [Centre Échecs](#) | Logiciel de tournoi d'échecs | Python, TinyDB |
+| [Films Stars](#)   | Meilleurs films depuis une API | JavaScript, HTML |
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilodorico&show_icons=true&theme=tokyonight)
