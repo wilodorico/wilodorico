@@ -13,7 +13,7 @@
 ---
 
 ## 💻 Compétences :
-- **Langages :** ![Python](https://img.shields.io/badge/Python-3.9-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
+- **Langages :** ![Python](https://img.shields.io/badge/Python-3.12-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
 - **Frameworks :** Django, React.js  
 - **Autres :** TinyDB, API REST
 
