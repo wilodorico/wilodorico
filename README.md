@@ -66,9 +66,6 @@ Je m’investis activement dans l’apprentissage continu pour renforcer mes com
 ## 📈 **Statistiques GitHub**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilodorico&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true)
-
-![GitHub Stats Compte Associé](https://github-readme-stats.vercel.app/api?username=wilfried-odorico-ifts&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilodorico&layout=compact&theme=dark&hide_border=false)
 
 ---
