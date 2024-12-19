@@ -1,4 +1,4 @@
-![Wilfried Odorico Banner](assets/Black-and-Yellow-Web-Developer-LinkedIn-Banner.png)
+![Bannière de Wilfried Odorico](assets/Black-and-Yellow-Web-Developer-LinkedIn-Banner.png)
 
 # 👋 Hello, je suis Wilfried Odorico !
 
@@ -8,14 +8,46 @@
 
 ---
 
-## 🚀 **À propos de moi**
+## 🌟 **À propos de moi**
 
 Depuis 2019, je construis des projets complets et impactants en m'appuyant sur des technologies robustes. Mon parcours de reconversion m'a permis d'acquérir des compétences variées, allant du développement backend sécurisé au design frontend élégant.
 
-🔧 **Compétences principales :**
+---
+
+## 🔧 **Compétences techniques**
+
 - **Langages** : ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Django](https://img.shields.io/badge/Django-4.2-green) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue)  
 - **Frameworks & Outils** : React.js, Node.js, TinyDB, Sass, API REST.  
-- **Autres compétences** : SEO, Responsive Design, Tests unitaires avec Pytest et Jest.
+- **Autres compétences** : SEO, Responsive Design, Tests unitaires avec Pytest et Jest.  
+
+---
+
+## 🤝 **Soft Skills**
+
+- **Adaptabilité** : Apprends rapidement et m’adapte à des environnements variés.  
+- **Rigueur** : Porte une attention particulière aux détails et à la qualité du code.  
+- **Empathie** : Comprends les besoins des utilisateurs et des collaborateurs pour mieux répondre à leurs attentes.  
+- **Esprit d'équipe** : Participe activement à aider mes collègues et à échanger des idées constructives.
+
+---
+
+## 📜 **Bonnes pratiques de codage**
+
+✨ Je suis engagé à produire un code clair, maintenable et performant grâce aux principes suivants :  
+- **Clean Code** : Structuration logique, nommage explicite, et réduction de la complexité.  
+- **PEP8** : Respect des normes de style en Python pour garantir la lisibilité du code.  
+- **Documentation** : Utilisation de docstrings et de commentaires clairs.  
+- **Tests** : Adoption de tests unitaires pour fiabiliser mes développements.  
+
+---
+
+## 📘 **Formations en cours & sujets qui m’intéressent**
+
+Je m’investis activement dans l’apprentissage continu pour renforcer mes compétences et explorer de nouveaux domaines :  
+- **Clean Architecture** : Structurer des applications robustes et évolutives.  
+- **Principes SOLID** : Concevoir un code orienté objets flexible et maintenable.  
+- **Test-Driven Development (TDD)** : Développer des fonctionnalités guidées par les tests.  
+- **Conception d'API** : Approfondir la sécurité et les performances des services REST.
 
 ---
 
@@ -47,5 +79,6 @@ Depuis 2019, je construis des projets complets et impactants en m'appuyant sur d
 ---
 
 ✨ *"Toujours prêt à apprendre et à relever de nouveaux défis dans le développement web et logiciel."*
+
 
 
