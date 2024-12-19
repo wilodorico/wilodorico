@@ -1,4 +1,4 @@
-![Wilfried Odorico Banner](assets/banner.png)
+![Wilfried Odorico Banner](assets/Black-and-Yellow-Web-Developer-LinkedIn-Banner.png)
 
 # 👋 Hello, je suis Wilfried Odorico !
 
