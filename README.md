@@ -74,8 +74,6 @@ Je m’investis activement dans l’apprentissage continu pour renforcer mes com
 
 🌐 **Portfolio** : [wilodorico.fr](https://www.wilodorico.fr/)  
 💼 **LinkedIn** : [Wilfried Odorico](https://www.linkedin.com/in/wilfried-odorico)  
-📧 **Email** : [wilfried.odorico@gmail.com](mailto:wilfried.odorico@gmail.com)  
-
 ---
 
 ✨ *"Toujours prêt à apprendre et à relever de nouveaux défis dans le développement web et logiciel."*
